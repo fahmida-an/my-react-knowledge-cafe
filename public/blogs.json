@@ -1,0 +1,32 @@
+[
+    {
+        "id": "1",
+        "cover": "https://i.ibb.co/j5NqXck/Laptop-cover.jpg",
+        "title": "Lorem Ipsum: The Art of Filler Text",
+        "author": "John Doe",
+        "author-img": "https://example.com/img1.jpg",
+        "posted-date": "2023-09-14",
+        "reading-time": 8,
+        "hashtag": ["LoremIpsum", "Design", "Text"]
+    },
+    {
+        "id": "2",
+        "cover": "https://example.com/cover2.jpg",
+        "title": "Cooking Without Fire: A Culinary Adventure",
+        "author": "Jane Smith",
+        "author-img": "https://i.ibb.co/j5NqXck/Laptop-cover.jpg",
+        "posted-date": "2023-09-12",
+        "reading-time": 10,
+        "hashtag": ["Cooking", "Food", "Adventure"]
+    },
+    {
+        "id": "3",
+        "cover": "https://i.ibb.co/j5NqXck/Laptop-cover.jpg",
+        "title": "Exploring Virtual Reality: Beyond the Headset",
+        "author": "David Wilson",
+        "author-img": "https://example.com/img3.jpg",
+        "posted-date": "2023-09-10",
+        "reading-time": 12,
+        "hashtag": ["VirtualReality", "Technology", "Exploration"]
+    }
+]
